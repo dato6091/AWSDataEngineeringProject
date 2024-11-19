@@ -97,10 +97,3 @@ The pipeline consists of the following steps:
 - Optimize DynamoDB capacity settings for scaling.
 - Implement data transformation for downstream analytics.
 
-## Author
-
-Documented and implemented by [Your Name].
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
